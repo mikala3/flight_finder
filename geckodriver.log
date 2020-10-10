@@ -1,0 +1,468 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1602283631487	geckodriver	INFO	Listening on 127.0.0.1:46875
+1602283631498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXidEQ3"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602283633467	Marionette	INFO	Listening on port 33545
+1602283633504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1303 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1303 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4530 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4530 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4936 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4936 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 230 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 230 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6133 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6133 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2176 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2176 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 245 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 245 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4197 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4197 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1346 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1346 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602283747666	Marionette	INFO	Stopped listening on port 33545
+1602283839563	geckodriver	INFO	Listening on 127.0.0.1:52669
+1602283839569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOBc13a"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602283841585	Marionette	INFO	Listening on port 35767
+1602283841676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2121 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2121 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6039 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6039 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5708 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5708 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2427 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2427 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6683 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6683 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 192 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 192 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6766 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6766 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7352 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7352 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6362 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6362 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1684 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1684 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3256 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3256 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2520 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2520 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 991 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 991 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5852 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5852 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602283953763	Marionette	INFO	Stopped listening on port 35767
+1602284994422	geckodriver	INFO	Listening on 127.0.0.1:35269
+1602284994427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile768u1z"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602284996360	Marionette	INFO	Listening on port 46123
+1602284996434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5109 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5109 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602285033550	geckodriver	INFO	Listening on 127.0.0.1:50081
+1602285033556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileedU1zq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602285035492	Marionette	INFO	Listening on port 38783
+1602285035566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/73cae2ad2e9438ed62e655fefa4fd91a.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4995 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4995 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1602285079999	geckodriver	INFO	Listening on 127.0.0.1:40725
+1602285080006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileslwRkI"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602285082038	Marionette	INFO	Listening on port 38405
+1602285082121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6056 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6056 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1602285178226	geckodriver	INFO	Listening on 127.0.0.1:50411
+1602285178232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMjRdb"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602285180205	Marionette	INFO	Listening on port 42323
+1602285180239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5511 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5511 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 970 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 970 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201008/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7453 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7453 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602285314745	geckodriver	INFO	Listening on 127.0.0.1:46221
+1602285314750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGrDpKc"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602285316865	Marionette	INFO	Listening on port 35745
+1602285316956	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602285321959	geckodriver	INFO	Listening on 127.0.0.1:45011
+1602285321965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7WzUEj"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602285324204	Marionette	INFO	Listening on port 36979
+1602285324273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7355 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7355 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201008/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2673 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2673 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7181 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7181 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602285592292	geckodriver	INFO	Listening on 127.0.0.1:52357
+1602285592297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3V9ivn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602285594602	Marionette	INFO	Listening on port 45929
+1602285594613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4120 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4120 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2726 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2726 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5819 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5819 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602286145289	geckodriver	INFO	Listening on 127.0.0.1:49829
+1602286145295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerTxbg2"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286147435	Marionette	INFO	Listening on port 44149
+1602286147505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7164 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7164 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 810 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 810 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6824 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6824 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2236 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2236 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1938 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1938 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6616 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6616 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 639 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 639 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602286230235	geckodriver	INFO	Listening on 127.0.0.1:33413
+1602286230242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJmUNSV"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286232309	Marionette	INFO	Listening on port 40163
+1602286232348	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602286234384	geckodriver	INFO	Listening on 127.0.0.1:58445
+1602286234390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegNH93w"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286236551	Marionette	INFO	Listening on port 37641
+1602286236597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 693 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 693 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1638 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1638 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5429 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5429 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602286301270	geckodriver	INFO	Listening on 127.0.0.1:59723
+1602286301275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerFtVdR"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1602286304114	geckodriver	INFO	Listening on 127.0.0.1:57337
+1602286304120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5O9n9b"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286306299	Marionette	INFO	Listening on port 38865
+1602286306328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och_hotfixable, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 876 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 876 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602286415917	geckodriver	INFO	Listening on 127.0.0.1:35685
+1602286415922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0T9xfL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286418081	Marionette	INFO	Listening on port 35401
+1602286418134	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602286436724	geckodriver	INFO	Listening on 127.0.0.1:47779
+1602286436731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilede11U1"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286438895	Marionette	INFO	Listening on port 35531
+1602286438938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5364 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5364 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3563 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3563 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602286513036	geckodriver	INFO	Listening on 127.0.0.1:55457
+1602286513042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7dWvYY"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286515402	Marionette	INFO	Listening on port 43711
+1602286515450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2470 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2470 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4863 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4863 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201008/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2198 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2198 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602286941784	geckodriver	INFO	Listening on 127.0.0.1:53953
+1602286941790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecfA4Cm"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602286943985	Marionette	INFO	Listening on port 39675
+1602286943999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4614 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4614 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4596 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4596 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7563 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7563 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 923 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 923 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6761 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6761 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6976 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6976 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6595 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6595 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602287187989	geckodriver	INFO	Listening on 127.0.0.1:34141
+1602287187993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIReQ6p"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602287190225	Marionette	INFO	Listening on port 35659
+1602287190300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 853 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 853 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1783 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1783 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6506 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6506 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4273 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4273 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6264 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6264 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2403 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2403 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2467 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2467 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1471 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1471 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5466 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5466 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1186 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1186 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3637 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3637 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602287408485	geckodriver	INFO	Listening on 127.0.0.1:36443
+1602287408493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5db96i"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602287410671	Marionette	INFO	Listening on port 46609
+1602287410703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4296 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4296 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7688 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7688 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1756 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1756 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3693 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 3693 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5035 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5035 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7685 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 7685 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5627 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5627 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 3223 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 3223 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 235 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 235 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 5791 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 5791 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2923 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2923 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4848 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 4848 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 430 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 430 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5742 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5742 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6715 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6715 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/636221736444563890/300x250/MALL_DisplayAd_VaraPrisOnline_300x250.html#t=14351935774954867773&p=https%3A%2F%2Feb46e01b7a95f3025b5a6c395a3fe96e.safeframe.googlesyndication.com, line 3: TypeError: this.gotoAndStop is not a function
+1602287520654	Marionette	INFO	Stopped listening on port 46609
