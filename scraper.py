@@ -5,6 +5,7 @@ import time
 import re
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
+from email_smtp import smtp_mail
 
 max_flight_price = 6200
 max_flight_time = 21
@@ -108,3 +109,18 @@ if __name__ == '__main__':
     webdriver = create_driver()
     scrape(webdriver)
     webdriver.quit()
+    sender = 'sender@fromdomain.com'
+    receiver = ['reciever@todomain.com']  
+    mess = """From: From Person %s  
+   To: To Person %s  
+   
+   MIME-Version:1.0  
+   Content-type:text/html  
+   
+   
+   Subject: Sending SMTP e-mail   
+   
+   <h3>Python SMTP</h3>  
+   <strong>This is a test e-mail message.</strong>  
+   """%(sender,receiver)
+    smtp_mail.send(sender, receiver, mess)
