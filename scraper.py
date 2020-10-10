@@ -71,16 +71,23 @@ def scrape(driver):
         i = 0
         best_price = 0
         best_time = 0
+        trip_founded = False
+        message = ""
         while(i < 9):
           if(max_flight_time > int(result_list[i+1]) and max_flight_price > int(result_list[i+2])):
             best_price = int(result_list[i+2])
             best_time = int(result_list[i+1])
             #todo create an email with proper content
             print("email cheapest")
-            print(result_list[i]+" time: "+result_list[i+1]+" hours  price: "+result_list[i+2]+" depature: "+depature_date+" go back at: "+goback_month)
+            message = result_list[i]+" time: "+result_list[i+1]+" hours  price: "+result_list[i+2]+" depature: "+depature_date+" go back at: "+goback_month
+            trip_founded = True
           if(result_list[i] != "Billigaste"):
             if(best_price+1000 > int(result_list[i+2]) and best_time-4 > int(result_list[i+1])):
+              message = result_list[i]+" time: "+result_list[i+1]+" hours  price: "+result_list[i+2]+" depature: "+depature_date+" go back at: "+goback_month
+              trip_founded = True
               print("email recommended/fastest")
+          if(trip_founded):
+            return message
           i += 3
 
         l += 1
@@ -92,6 +99,7 @@ def scrape(driver):
       depature_date = increase_depature_date(depatureMonthNumber, depatureDayNumber)
       #set gobackDayNumber - 3, since we have loop one round now
       gobackDayNumber -= 3
+      return ""
 
   except:
     print("An exception occurred") 
@@ -107,20 +115,14 @@ def increase_goback_date(gobackMonthNumber, gobackDayNumber):
 
 if __name__ == '__main__':
     webdriver = create_driver()
-    scrape(webdriver)
+    text = scrape(webdriver)
     webdriver.quit()
-    sender = 'sender@fromdomain.com'
-    receiver = ['reciever@todomain.com']  
-    mess = """From: From Person %s  
-   To: To Person %s  
-   
-   MIME-Version:1.0  
-   Content-type:text/html  
-   
-   
-   Subject: Sending SMTP e-mail   
-   
-   <h3>Python SMTP</h3>  
-   <strong>This is a test e-mail message.</strong>  
-   """%(sender,receiver)
-    smtp_mail.send(sender, receiver, mess)
+    if(len(text) > 0):
+      sender = 'sender@fromdomain.com'
+      receiver = ['reciever@todomain.com']  
+      mess = """From: From Person %s  
+    To: To Person %s  
+    
+    %s
+    """%(sender,receiver, text)
+      smtp_mail.send(sender, receiver, mess)
